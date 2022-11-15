@@ -1,5 +1,14 @@
 # capstone-project
 
+## due 11/16
+
+Team members have drafted their project, including the following: 
+Selected topic
+Reason why they selected their topic 
+Description of their source of data
+Questions they hope to answer with the data Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well.
+
+
 MC 11/9 Notes: 
 Document everything
 Narrowing down a topic. What problem/issue are we solving? Restricting it to VA gives us an easier start, place to find data. 
