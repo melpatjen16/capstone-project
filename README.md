@@ -2,11 +2,31 @@
 
 ## due 11/16
 
-Team members have drafted their project, including the following: 
-Selected topic
-Reason why they selected their topic 
-Description of their source of data
-Questions they hope to answer with the data Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well.
+### Team members have drafted their project, including the following: 
+
+Selected topic - Relationship Between Criminal Behavior, Court Outcomes, and Regional Demographics
+
+Reason why they selected their topic - Team members are interested in identifying patterns of behavior and fallacies about criminal outcomes. 
+
+Description of their source of data - Socrata;
+
+https://www.opendatanetwork.com/entity/1600000US5156000/Newport_News_VA/crime.fbi_ucr.count?crime_type=Aggravated%20assault&year=2018&ref=related-sibling
+
+Questions they hope to answer with the data: Is there a relationship between criminal behavior, regional demographics, and court outcomes within major metropolitan regions in Virginia. 
+
+MJ - 11/7/Notes
+
+Examine criminal justice system. 
+Consider implications of behavioral health. 
+
+Is there a relationship between criminal convictions and behavior for offenses occurring in areas of Virginia? 
+
+Are there patterns regarding the following variables: 
+ * Location
+ * Race/Ethnicity; Gender
+ * Economic variables (median household income, unemployment rate)
+ * Homelessness or Mental Health indices 
+ * Demographics of regional law enforcement. 
 
 ## s3 link
 s3://bostoncrime/archive1/
