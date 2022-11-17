@@ -28,6 +28,9 @@ Are there patterns regarding the following variables:
  * Homelessness or Mental Health indices 
  * Demographics of regional law enforcement. 
 
+## s3 link
+s3://bostoncrime/archive1/
+
 
 MC 11/9 Notes: 
 Document everything
