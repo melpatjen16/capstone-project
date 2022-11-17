@@ -8,6 +8,9 @@ Reason why they selected their topic
 Description of their source of data
 Questions they hope to answer with the data Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well.
 
+## s3 link
+s3://bostoncrime
+
 
 MC 11/9 Notes: 
 Document everything
