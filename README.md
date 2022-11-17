@@ -1,19 +1,21 @@
 # capstone-project
 
-## due 11/16
+## Segment 1 Deliverables
 
-### Team members have drafted their project, including the following: 
+### Topic
 
 Selected topic - Relationship Between Criminal Behavior, Court Outcomes, and Regional Demographics
 
 Reason why they selected their topic - Team members are interested in identifying patterns of behavior and fallacies about criminal outcomes. 
 
-Description of their source of data - Socrata;
+### Source of Data
+Kaggle - [https://www.kaggle.com/code/nihandincer/data-analysis-of-boston-crimes](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston)
 
-https://www.opendatanetwork.com/entity/1600000US5156000/Newport_News_VA/crime.fbi_ucr.count?crime_type=Aggravated%20assault&year=2018&ref=related-sibling
+Questions they hope to answer with the data: Is there a relationship between criminal behavior, regional demographics, and court outcomes within major metropolitan regions throughout the US. 
 
-Questions they hope to answer with the data: Is there a relationship between criminal behavior, regional demographics, and court outcomes within major metropolitan regions in Virginia. 
+### S3 Link [https://bostoncrime.s3.amazonaws.com/archive1/crime.csv](https://bostoncrime.s3.amazonaws.com/archive1/crime.csv)
 
+## Notes 
 MJ - 11/7/Notes
 
 Examine criminal justice system. 
@@ -28,8 +30,6 @@ Are there patterns regarding the following variables:
  * Homelessness or Mental Health indices 
  * Demographics of regional law enforcement. 
 
-## s3 link
-s3://bostoncrime/archive1/
 
 
 MC 11/9 Notes: 
@@ -51,6 +51,15 @@ Compare/filter out these see where it leads
 Year to year?
 Contextualize crime statistics with conviction rates in Virginia to highlight the behavioral, location, and demographic(ethnic background) factors…
 Nonviolent conviction rates in VA – 
+*1 Finishing up EDA process (exploratory data analysis)*
+What are the features and relationships between them.
+Variables: Case (#, code/ID, date), location (lat/long), charge, 
+Provides guidelines for essential variables and removing non-essential variables
+Identify outliers
+Maximize insights of dataset
+
+2 Create a working machine learning model — supervised learning model?? Labels vs no labels
+Figure out the model to help figure out how to store it
 
 Data & APIs:
 
