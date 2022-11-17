@@ -9,7 +9,7 @@ Description of their source of data
 Questions they hope to answer with the data Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well.
 
 ## s3 link
-s3://bostoncrime
+s3://bostoncrime/archive1/
 
 
 MC 11/9 Notes: 
