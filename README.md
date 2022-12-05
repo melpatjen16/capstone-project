@@ -13,7 +13,7 @@ Kaggle - [https://www.kaggle.com/code/nihandincer/data-analysis-of-boston-crimes
 
 Questions they hope to answer with the data: Is there a relationship between criminal behavior, regional demographics, and court outcomes within major metropolitan regions throughout the US. 
 
-### S3 Link [https://bostoncrime.s3.amazonaws.com/archive1/crime.csv](https://bostoncrime.s3.amazonaws.com/archive1/crime.csv)
+### S3 Link 
 
 ## Notes 
 MJ - 11/7/Notes
