@@ -72,14 +72,32 @@ https://crime-data-explorer.fr.cloud.gov/pages/docApi
 
 The team selected three cities to examine and establish if there was some trend by city or overall (all cities combined).
 
+
 The datasets were combined using Pandas. The final set of cities included Boston, MA; Los Angeles, CA
 ; and Baltimore, MD
+
+<img width="235" alt="Screenshot 2022-12-06 at 9 56 17 PM" src="https://user-images.githubusercontent.com/107972848/206083950-cbfca2fc-4c26-4cdc-8b16-f93de297f94d.png">
 
 ### Description of the analysis phase of the project
 
 
+<img width="453" alt="Screenshot 2022-12-06 at 9 52 47 PM" src="https://user-images.githubusercontent.com/107972848/206084049-c6ffc649-a3d9-4ac6-a76f-0d92ba8c21f6.png">
 
 
 
+![Screen Shot 2022-12-06 at 10 58 55 PM](https://user-images.githubusercontent.com/107972848/206084892-8df83766-e7e0-4e4c-8697-55a16fbd2db3.png)
 
+
+### Libraries Used for Data Cleaning
+
+<img width="886" alt="Screenshot 2022-12-06 at 9 40 27 PM" src="https://user-images.githubusercontent.com/107972848/206084193-7b6981b3-8458-409f-904f-a58bbe80712c.png">
+
+
+### Draft Outline of Dashboard
+
+Top Crimes
+Crimes by Year, Month
+Crimes by Location (Latitude, Longitude)
+Crime by Area
+Crimes by City by Year
 
