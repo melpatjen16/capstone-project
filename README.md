@@ -30,10 +30,6 @@ Are there patterns regarding the following variables:
  * Homelessness or Mental Health indices 
  * Demographics of regional law enforcement. 
 
-
-
-MC 11/9 Notes: 
-Document everything
 Narrowing down a topic. What problem/issue are we solving? Restricting it to VA gives us an easier start, place to find data. 
 Contextualize crime statistics with demographic/behavior data/factors/variation within commonwealth
 Behavioral data on juveniles vs. adults. Not as much on adults – how are these crimes then being classified? 
@@ -70,31 +66,19 @@ https://www.programmableweb.com/api/18f-crime-data (crime data explorer)
 https://crime-data-explorer.fr.cloud.gov/pages/docApi 
 
 
+# Segment 2 and 3 Deliverables
 
+### Description of the data exploration phase of the project 
 
-KB notes: 
-Crime Data and Behavior Data for committing a crime and factors that's Document such Data. 
-We should Journal a Data process. 
+The team selected three cities to examine and establish if there was some trend by city or overall (all cities combined).
 
-Commonwealth Conviction Rate
-Behaviors / Non Voilent 
-Mental Health Issues 
-Ethnic Background
-Location. 
+The datasets were combined using Pandas. The final set of cities included Boston, MA; Los Angeles, CA
+; and Baltimore, MD
 
+### Description of the analysis phase of the project
 
 
 
-HB notes
-
-There are predictive factors leading to pursuit of criminal prosecution of non violent crime; what are they// these factors are predictable and quantifiable.
-This includes:
-
-
-The APIs to back this are found here:
-
-
-This data is best integrated using the following tools/methods:
 
 
 
