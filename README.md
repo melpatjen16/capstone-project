@@ -96,11 +96,31 @@ The datasets were combined using Pandas. The final set of cities included Boston
 ### Draft Outline of Dashboard
 
 Top Crimes
-Crimes by Year, Month
+Crimes by Year, Mont
 Crimes by Location (Latitude, Longitude)
-Crime by Area
-
-https://public.tableau.com/app/profile/melanie.p.jenkins/viz/City_Analysis_Team/Locations
-
+Crime by Area (Maps)
 Crimes by City by Year
 
+### Dashboards Generated using Tableau 
+
+OVERALL
+
+https://public.tableau.com/app/profile/melanie.p.jenkins/viz/Overall_Story/CrimeTrendsbyCity?publish=yes
+
+BALTIMORE
+
+https://public.tableau.com/app/profile/melanie.p.jenkins/viz/Baltimore_Story_16704464678820/BaltimoreStory?publish=yes
+
+BOSTON
+
+https://public.tableau.com/app/profile/melanie.p.jenkins/viz/Boston_Story_16704464162940/BostonStory?publish=yes
+
+LOS ANGELES
+
+https://public.tableau.com/app/profile/melanie.p.jenkins/viz/Los_Angeles_Story/LosAngelesStory?publish=yes
+
+
+
+### Presentation
+
+https://docs.google.com/presentation/d/12QTT5_4vi3EK-5QgBurxKq9lYarOOCQJ0PierT--78g/edit#slide=id.g1abfe861f5f_0_25
